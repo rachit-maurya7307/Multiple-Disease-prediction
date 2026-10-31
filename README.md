@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multiple Disease Prediction System — B.Tech Minor Project
 
 ## Overview
@@ -57,3 +58,7 @@ python -m streamlit run app.py
 3. Explain the feature inputs and target labels.
 4. Explain train/test split, preprocessing pipeline, Random Forest and metrics.
 5. Show the report/PPT and discuss limitations.
+=======
+# Multiple-Disease-prediction
+Python based Multiple Disease Prediction System using Machine Learning
+>>>>>>> 12f9cb17bb8514f127c06e96961879819900587f
